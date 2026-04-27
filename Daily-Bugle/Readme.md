@@ -1,4 +1,4 @@
-<h1> CTF Daily Bugle | TryHackme</h1>
+<h1> CTF Daily Bugle | TryHackMe</h1>
 
 - Máquina: Daily Bugle
 - Dificuldade: Difícil
