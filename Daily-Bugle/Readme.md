@@ -1,5 +1,7 @@
 <h1> CTF Daily Bugle | TryHackMe</h1>
 
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ImHbmxs_GsGn-cRfg0E57g.jpeg" width="900" alt="Icon Daily Bugle">
+
 - Máquina: Daily Bugle
 - Dificuldade: Difícil
 - Plataforma: TryHackMe
