@@ -23,7 +23,7 @@ Este repositório reúne **write-ups selecionados** de máquinas que ownei no Tr
 </td>
 <td valign="middle" width="45%" align="right">
 
-<img width="620" height="349" alt="banner" src="https://github.com/user-attachments/assets/652e7af2-aa82-4bfc-bb48-335ab90360e2"/>
+<img width="500" height="300" alt="banner" src="https://github.com/user-attachments/assets/652e7af2-aa82-4bfc-bb48-335ab90360e2"/>
 
 </td>
 </tr>
