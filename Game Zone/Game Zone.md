@@ -5,7 +5,6 @@
 - Máquina: Game Zone
 - Dificuldade: Facíl 
 - Plataforma: TryHackMe
-- Medium: https://medium.com/@henrique.mb/ctf-game-zone-tryhackme-37d57c7991d6
 
 # Introdução
 O CTF “Game Zone”, tem como objetivo a exploração da vulnerabilidade SQL Injection.
