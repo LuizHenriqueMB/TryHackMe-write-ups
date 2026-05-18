@@ -2,7 +2,6 @@
 
 - Máquina: Overpass2
 - Dificuldade: Fácil
-- Medium: https://medium.com/@henrique.mb/ctf-overpass2-tryhackme-22dd4e3b50ad
 
 ## Introdução
 O Overpass foi hackeado! A equipe do SOC (Paradox, parabéns pela promoção) notou atividade suspeita durante um turno da noite enquanto analisava os dados do sistema e conseguiu capturar os pacotes de dados no momento do ataque. Você consegue descobrir como o invasor entrou e invadir o servidor de produção da Overpass?
