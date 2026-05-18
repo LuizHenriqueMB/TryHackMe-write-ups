@@ -5,7 +5,6 @@
 - Máquina: The London Bridge
 - Dificuldade: Média
 - Plataforma: TryHackMe
-- Medium: https://medium.com/@henrique.mb/ctf-the-london-bridge-tryhackme-8a1ef5101b62
 
 <h1>Reconhecimento</h1>
 Iniciando com a enumeração de portas com a ferramenta nmap, através do comando:
