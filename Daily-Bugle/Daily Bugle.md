@@ -2,10 +2,6 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ImHbmxs_GsGn-cRfg0E57g.jpeg" width="900" alt="Icon Daily Bugle">
 
-- Máquina: Daily Bugle
-- Dificuldade: Difícil
-- Plataforma: TryHackMe
-
 <h1>Introdução</h1>
 O CTF “Daily Bugle” tem como objetivo comprometer uma conta do Joomla CMS via SQLi, quebra de hash e escalação de privilégios via yum.
 
