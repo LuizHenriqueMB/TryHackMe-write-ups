@@ -2,10 +2,6 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*RLbxKkKb9fSIR3-k" width="900"  alt="The London Bridge">
 
-- Máquina: The London Bridge
-- Dificuldade: Média
-- Plataforma: TryHackMe
-
 <h1>Reconhecimento</h1>
 Iniciando com a enumeração de portas com a ferramenta nmap, através do comando:
 
